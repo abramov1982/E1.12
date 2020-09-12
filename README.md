@@ -1,6 +1,10 @@
+[![Travis][build-badge]][build]
+
+[build-badge]: https://img.shields.io/travis/abramov1982/E1.12/master.png?style=flat-square
+
 [build]:  https://travis-ci.org/github/abramov1982/E1.12
 
-[Result:] https://travis-ci.org/abramov1982/E1.12.svg?branch=master
+[result:] https://travis-ci.org/abramov1982/E1.12.svg?branch=master
 
   Запуск игры:
   - python hangman.py
