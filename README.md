@@ -1,6 +1,6 @@
-# Задание E1.12
+[build]:  https://travis-ci.org/github/abramov1982/E1.12
 
-Скопировать в директорий C:\E1_12_M
+[Result:] https://travis-ci.org/abramov1982/E1.12.svg?branch=master
 
   Запуск игры:
   - python hangman.py
@@ -22,7 +22,3 @@
 там этот модуль выдает ошибку.
 Именно по этому, эти два операнда закоментированны в варианте размещенном на GitHub.
 По совету юнита 11 в E1 - статус последней сборки добавлен в README.md.
-[build]:  https://travis-ci.org/github/abramov1982/E1.12
-
-[Result:] https://travis-ci.org/abramov1982/E1.12.svg?branch=master
-
