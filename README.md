@@ -4,8 +4,6 @@
 
 [build]:  https://travis-ci.org/github/abramov1982/E1.12
 
-[result:] https://travis-ci.org/abramov1982/E1.12.svg?branch=master
-
   Запуск игры:
   - python hangman.py
 
